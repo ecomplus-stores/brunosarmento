@@ -10,17 +10,17 @@
   "repository": "ecomplus-stores/brunosarmento",
   "logo": "/img/uploads/logo-sem-fundo.png",
   "name": "Serkell Joias",
-  "short_name": "brunosarmento",
+  "short_name": "Serkell Joias Ltda.",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "favicon": "/img/uploads/logo-sem-fundo.png",
+  "icons_font": "feather-icons",
   "country_code": "BR",
   "secondary_color": "#b28496",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo-sem-fundo.png",
   "store_id": 51602,
-  "description": "brunosarmento",
-  "large_icon": "/img/large-icon.png"
+  "description": "Semijoias banhadas a ouro e prata, alto atacado direto da fábrica. Peças exclusivas com garantia e entrega rápida.",
+  "large_icon": "/img/uploads/logo-sem-fundo.png"
 }
