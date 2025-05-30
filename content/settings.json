@@ -6,7 +6,7 @@
     "bootswatch": "simplex",
     "custom": "niche-flowers"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#d7aace",
   "repository": "ecomplus-stores/brunosarmento",
   "logo": "/img/uploads/logo-sem-fundo.png",
   "name": "Serkell Joias",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/logo-sem-fundo.png",
-  "icons_font": "feather-icons",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
   "secondary_color": "#b28496",
   "icon": "/img/uploads/logo-sem-fundo.png",
