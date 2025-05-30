@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#f1bfe2",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "ecom-beauty"
   },
   "bg_color": "#d7aace",
