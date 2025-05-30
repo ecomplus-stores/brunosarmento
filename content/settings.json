@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#f1bfe2",
   "theme": {
-    "bootswatch": "simplex",
-    "custom": "niche-flowers"
+    "bootswatch": "_",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#d7aace",
   "repository": "ecomplus-stores/brunosarmento",
