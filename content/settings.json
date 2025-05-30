@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#f1bfe2",
   "theme": {
-    "bootswatch": "minty",
+    "bootswatch": "litera",
     "custom": "ecom-beauty"
   },
   "bg_color": "#d7aace",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/logo-sem-fundo.png",
-  "icons_font": "bootstrap-icons",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#b28496",
   "icon": "/img/uploads/logo-sem-fundo.png",
