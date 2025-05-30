@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#f77ec6",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "litera",
     "custom": "ecom-beauty"
   },
-  "bg_color": "#ff65a9",
+  "bg_color": "#df9fbc",
   "repository": "ecomplus-stores/brunosarmento",
   "logo": "/img/uploads/logo-sem-fundo.png",
   "name": "Serkell Joias | Alto Atacado de Semijoias",
