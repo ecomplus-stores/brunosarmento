@@ -1,15 +1,15 @@
 {
   "domain": "brunosarmento.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#f1bfe2",
+  "primary_color": "#f77ec6",
   "theme": {
-    "bootswatch": "litera",
+    "bootswatch": "_",
     "custom": "ecom-beauty"
   },
-  "bg_color": "#d7aace",
+  "bg_color": "#ff65a9",
   "repository": "ecomplus-stores/brunosarmento",
   "logo": "/img/uploads/logo-sem-fundo.png",
-  "name": "Serkell Joias",
+  "name": "Serkell Joias | Alto Atacado de Semijoias",
   "short_name": "Serkell Joias Ltda.",
   "lang": "pt_br",
   "currency": "BRL",
@@ -21,6 +21,6 @@
   "secondary_color": "#b28496",
   "icon": "/img/uploads/logo-sem-fundo.png",
   "store_id": 51602,
-  "description": "Semijoias banhadas a ouro e prata, alto atacado direto da fábrica. Peças exclusivas com garantia e entrega rápida.",
+  "description": "Alto atacado de Semijoias banhadas a ouro ou prata direto da fabrica. Peças exclusivas com garantia e entrega rápida.",
   "large_icon": "/img/uploads/logo-sem-fundo.png"
 }
