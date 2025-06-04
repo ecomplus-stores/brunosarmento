@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.87d900b5a37ece97aa57801e2b336436.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7909fa06a847337f5237c0dfc00ba540.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d22d863db8795f835342a44d1a09c102.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.29f50e4cf663a4a88c6cb0e16f1b1664.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3750b05d97b3a92e13e31f676bd6cd8f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Serkell Joias | Alto Atacado de Semijoias",
+  "short_name": "Serkell Joias Ltda.",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Alto atacado de Semijoias banhadas a ouro ou prata direto da fabrica. Peças exclusivas com garantia e entrega rápida.",
+  "background_color": "#df9fbc",
+  "theme_color": "#f77ec6"
+}
